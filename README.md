@@ -62,18 +62,5 @@ Monitor model **architecture, data distribution, and training progress** directl
 
 ---
 
-## 📌 Contributing  
-We welcome contributions to improve this project! Feel free to:  
-🔹 Open an **issue** for bug reports or feature requests  
-🔹 Submit a **pull request** with enhancements  
-
-📌 **GitHub Repository**: [Click Here](https://github.com/Dishant4277/Drowsiness-Detection-System)  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
 
 🚦 **Let’s build a smarter and safer future together!** 🚦  
